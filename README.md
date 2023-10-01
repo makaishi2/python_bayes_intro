@@ -10,7 +10,7 @@
 ## 実習Notebookリンク
 　本書の実習コードは、Google Colabで動かすことを前提に、すべてGithub(当サポートサイト)で公開しています。  
 
-[実習Notebook一覧](notebooks.md)
+[実習Notebook一覧](https://github.com/makaishi2/python_bayes_intro/tree/main/notebooks)
 
 [実習Notebookの動かし方](refs/how-to-run.md)
 
