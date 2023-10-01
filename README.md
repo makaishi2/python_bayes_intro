@@ -14,7 +14,7 @@
 
 [実習Notebook一覧](https://github.com/makaishi2/python_bayes_intro/tree/main/notebooks)
 
-[実習Notebookの動かし方](refs/how-to-run.md)
+[実習Notebookの動かし方](refs/how-to-run.md) (T.B.D.)
 
 
 
@@ -42,7 +42,7 @@
 
 * ABテストや線形回帰モデルの効果検証など、業務観点でのベイズ推論利用パターンを学ぶことができます
 
-* 各章・節の最後のコラムで、「事前分布と事後分布の違い」、「HDIの意味」や、「target_acceptパラメータによるチューニング」「変分推論法の利用」など、知っておくと役にたつ、やや高度な概念や手法を理解できます
+* 各章・節の最後のコラムで、「事前分布と事後分布の違い」「HDIの意味」や、「target_acceptパラメータによるチューニング」「変分推論法の利用」など、知っておくと役に立つ、やや高度な概念や手法を理解できます
 
 
 
