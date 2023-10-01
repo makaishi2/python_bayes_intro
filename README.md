@@ -1,4 +1,4 @@
-# 書籍『Pythonでスラスラわかりベイズ推論「超」入門』サポートサイト
+# 書籍『Pythonでスラスラわかるベイズ推論「超」入門』サポートサイト
 
 <div align="left">
 <img src="images/表紙-v1.png" width="200">
