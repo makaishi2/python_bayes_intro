@@ -21,12 +21,14 @@ Gmailアドレスを事前に取得し、別タブでGmailにログインした�
 ### 2. 実行したいnotebookの選択
 
 左のリストから実行したいnotebookのリンクをダブルクリックします。  
- 以下では「2章_よく利用される確率分布.ipynb」を選択しています。<br>
+<br>
 
 <div align="left">
 <img src="../images/step1.png" width="800">
 </div>
 
+<br>
+以下では「2章_よく利用される確率分布.ipynb」を選択しています。
 <br>
 
 ### 3.   Google Colabの起動
