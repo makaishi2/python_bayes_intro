@@ -6,9 +6,9 @@ Gmailアドレスを事前に取得し、別タブでGmailにログインした�
 
 1. 以下のリンクをクリックしてNotebook一覧を表示します。  
 (コントロールキーを押しながらリンクをクリックすると別タブで開くことができます。)   
-[Notebook一覧](../notebooks.md)
+[Notebook一覧](../notebooks/)
 <!---
-[Notebook一覧](../notebooks){:target="_blank" rel="noopener"} 
+[Notebook一覧](../notebooks/){:target="_blank" rel="noopener"} 
 <p><a href="../notebooks" target="_blank">Notebook一覧</a></p>
 -->  
 
