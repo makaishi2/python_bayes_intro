@@ -82,7 +82,7 @@ Kindle版は準備中
 
 　ベイズ推論モデル理解における最大のハードルである確率分布の数学概念に関しては、オブジェクト指向プログラミングモデルとの対比により、具体的イメージを持ちやすくしました。
 
-<img src="./images/table-1-6.png" alt="table-1-6" style="zoom:50%;" />
+<img src="./images/table-1-6.png" alt="table-1-6" width=300 />
 
 
 
@@ -114,13 +114,13 @@ Kindle版は準備中
 
 
 
-<img src="../bayes-book-doc/images/pdf-04-04-06.png" alt="pdf-04-04-06" width=300 />
+<img src="./images/pdf-04-04-06.png" alt="pdf-04-04-06" width=300 />
 
 ##### 実業務利用例
 
 　６章では、すぐに業務で使えそうな利用例を掲載しています。この章を読むことで、実業務での利用イメージを持つことが可能です。
 
-<img src="../bayes-book-doc/images/fig-06-01-10.png" alt="fig-06-01-10" width=300 />
+<img src="./images/fig-06-01-10.png" alt="fig-06-01-10" width=300 />
 
 <br>
 
