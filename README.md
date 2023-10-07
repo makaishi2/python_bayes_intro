@@ -14,7 +14,7 @@
 
 [実習Notebook一覧](https://github.com/makaishi2/python_bayes_intro/tree/main/notebooks)
 
-[実習Notebookの動かし方](refs/how-to-run.md) (T.B.D.)
+[実習Notebookの動かし方](refs/how-to-run.md) 
 
 [参考Notebook](https://github.com/makaishi2/python_bayes_intro/tree/main/sample-notebooks)
 
