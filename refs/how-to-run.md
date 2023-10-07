@@ -30,7 +30,7 @@ Gmailアドレスを事前に取得し、別タブでGmailにログインした�
 
 ### 3.   Google Colabの起動
 
-画面右上のGoogle Colabアイコンをクリックします。<br>
+画面右上の**Open in Colab**アイコンをクリックします。<br>
 
 <div align="left">
 <img src="../images/step2.png" width="800">
