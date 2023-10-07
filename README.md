@@ -90,7 +90,7 @@ Kindle版は準備中
 
 　ベイズ推論開発の根幹である確率モデル定義に関しては、すべての例題で可視化結果をつけ、この図を使って詳しく解説をしています。
 
-<img src="./images/model01-01.png" alt="model01-01" width=6400/>
+<img src="./images/model01-01.png" alt="model01-01" width=400/>
 
 ##### ベイズ推論のステップをわかりやすく解説
 
@@ -120,7 +120,7 @@ Kindle版は準備中
 
 　６章では、すぐに業務で使えそうな利用例を掲載しています。この章を読むことで、実業務での利用イメージを持つことが可能です。
 
-<img src="./images/fig-06-01-10.png" alt="fig-06-01-10" width=400 />
+<img src="./images/fig-06-01-10.png" alt="fig-06-01-10" width=500 />
 
 <br>
 
