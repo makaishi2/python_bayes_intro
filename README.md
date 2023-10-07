@@ -82,7 +82,7 @@ Kindle版は準備中
 
 　ベイズ推論モデル理解における最大のハードルである確率分布の数学概念に関しては、オブジェクト指向プログラミングモデルとの対比により、具体的イメージを持ちやすくしました。
 
-![table-1-6](./images/table-1-6.png)
+<img src="./images/table-1-6.png" alt="table-1-6" style="zoom:50%;" />
 
 
 
@@ -90,7 +90,7 @@ Kindle版は準備中
 
 　ベイズ推論開発の根幹である確率モデル定義に関しては、すべての例題で可視化結果をつけ、この図を使って詳しく解説をしています。
 
-![model01-01](./images/model01-01.png)
+<img src="./images/model01-01.png" alt="model01-01" width=300/>
 
 ##### ベイズ推論のステップをわかりやすく解説
 
@@ -98,15 +98,15 @@ Kindle版は準備中
 
 
 
-<img src="./images/fig-01-04.png" alt="fig-01-04" style="zoom:40%;" />
+<img src="./images/fig-01-04.png" alt="fig-01-04" width=300 />
 
 ##### ベイズ推論の仕組みについては最尤推定との対比で説明
 
 　ベイズ推定の仕組みについては、別の統計分析手法である最尤推定との対比で、何がどう違うのかをわかりやすく解説します。
 
-<img src="./images/fig-02-05.png" alt="fig-02-05" style="zoom:30%;" />
+<img src="./images/fig-02-05.png" alt="fig-02-05" width=300 />
 
-<img src="./images/fig-02-06.png" alt="fig-02-06" style="zoom:30%;" />
+<img src="./images/fig-02-06.png" alt="fig-02-06" width=300 />
 
 ##### 潜在変数モデル
 
@@ -114,13 +114,13 @@ Kindle版は準備中
 
 
 
-<img src="../bayes-book-doc/images/pdf-04-04-06.png" alt="pdf-04-04-06" style="zoom:80%;" />
+<img src="../bayes-book-doc/images/pdf-04-04-06.png" alt="pdf-04-04-06" width=300 />
 
 ##### 実業務利用例
 
 　６章では、すぐに業務で使えそうな利用例を掲載しています。この章を読むことで、実業務での利用イメージを持つことが可能です。
 
-<img src="../bayes-book-doc/images/fig-06-01-10.png" alt="fig-06-01-10" style="zoom:30%;" />
+<img src="../bayes-book-doc/images/fig-06-01-10.png" alt="fig-06-01-10" width=300 />
 
 <br>
 
