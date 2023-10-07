@@ -22,7 +22,7 @@
 
 [単行本](https://www.amazon.co.jp/dp/4065337631) 
 
-[Kindle版は準備中]()  
+Kindle版は準備中 
 <br>
 
 
