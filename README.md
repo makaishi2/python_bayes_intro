@@ -8,6 +8,13 @@
 　当サイトは 、書籍『**Pythonでスラスラわかる ベイズ推論「超」入門**』のサポートサイトです。<br> 　ベイズ推論理解のためには、確率分布などの数学知識が必須です。本書であれば、数学知識が不十分な読者も、Python実習を通じて簡単にベイス推論が理解できます。
 
 
+## Amazonへのリンク
+
+[単行本](https://www.amazon.co.jp/dp/4065337631) 
+
+(Kindle版は準備中です) 
+<br>
+
 
 
 ## 実習Notebookリンク
@@ -19,13 +26,6 @@
 
 [参考Notebook](https://github.com/makaishi2/python_bayes_intro/tree/main/sample-notebooks)
 
-<br>
-
-## Amazonへのリンク
-
-[単行本](https://www.amazon.co.jp/dp/4065337631) 
-
-Kindle版は準備中 
 <br>
 
 
