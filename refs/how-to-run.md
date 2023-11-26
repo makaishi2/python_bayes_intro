@@ -1,51 +1,77 @@
-## 実習Notebookの動かし方
+## 実習notebookの動かし方
 
-**前提**  
+  本書の実習notebookはすべて、Google Colabに完全対応しています。事前にgmailのアカウントを取得していれば、下記の手順で**環境準備の作業ゼロで本書の実習コードを動かすことが可能**です。
+
+
+
+### 前提  
+
 Gmailアドレスを事前に取得し、別タブでGmailにログインした状態にします。
+<br>
+
+### 1. notebook一覧の表示
 
 
-1. 以下のリンクをクリックしてNotebook一覧を表示します。  
-(コントロールキーを押しながらリンクをクリックすると別タブで開くことができます。)   
-[Notebook一覧](../notebooks.md)
-<!---
-[Notebook一覧](../notebooks.md){:target="_blank" rel="noopener"} 
-<p><a href="../notebooks.md" target="_blank">Notebook一覧</a></p>
--->  
+以下のリンクをクリックしてNotebook一覧を表示します。 <br>
+
+
+[Notebook一覧](../notebooks/)
+
+<br>
+
+コントロールキーを押しながらリンクをクリックすると別タブで開くことができます。<br>
+
+
+
+### 2. 実行したいnotebookの選択
+
+左のリストから実行したいnotebookのリンクをクリックします。(右のリストからでも起動可能です。
+<br>
+
+<div align="left">
+<img src="../images/step1.png" width="800">
+</div>
+
+<br>
+以下では「2章_よく利用される確率分布.ipynb」を選択しています。
+<br>
+
+### 3.   Google Colabの起動
+
+画面右上の**Open in Colab**アイコンをクリックします。<br>
+
+<div align="left">
+<img src="../images/step2.png" width="800">
+</div>
+
+<br>
+
+### 4. notebookのコピー
+画面左上に8の数字を横にしたアイコンが表示されていれば、すでにGoogle Colabが使える状態です。<br>
+
+ただ、このままでは更新したNotebookを保存できないので、Notebookを自分のホームディレクトリにコピーします。<br>
+そのためには、画面右上の**ドライブにコピー**をクリックして下さい。<br>
+
+<div align="left">
+<img src="../images/step3.png" width="800">
+</div>
+
+<br>
+
+### 5. notebookの 実行
+
+画面上部のファイル名が「xxx.ipynbのコピー」となっていれば、ホームディレクトリへのコピーが完了しています。<br>
+
 
 
 <div align="left">
-<img src="../images/howto-01.png" width="500">
+<img src="../images/step4.png" width="800">
 </div>
 
-2. 実行したいNotebookのリンクをクリックします。  
-（以下では一番上の序章「はじめに」のリンクをクリックした場合の画面としています）
-
-<div align="left">
-<img src="../images/howto-02.png" width="500">
-</div>
+<br>
 
 
-3. 青枠で囲んだ「ドライブにコピー」のリンクをクリックします。
 
-<div align="left">
-<img src="../images/howto-03.png" width="500">
-</div>
-
-4. 上の画面のようになれば、notebook 実行の準備は完了です。
-
-<div align="left">
-<img src="../images/howto-04.png" width="500">
-</div>
-
-　画面上部の「# 必要ライブラリ・ コマンドの導入」の下辺りをマウスでクリックしてください。上の図左の青丸で 囲んだような矢印アイコンが表示されます。  
-　Notebook では「セル」と呼ばれる箱の単位でプログラムが実行されます。 矢印アイコンは、現在選択されている「セル」を意味します。  
-　この状態で、「Shift + Enter」(Shift を押しながら Enter を押す)を入力すると、選択されたセルが 実行されます。プログラムの実行に多少時間がかかりますが、最終的に下図のようになるはずです。
-
-<div align="left">
-<img src="../images/howto-05.png" width="500">
-</div>
-
-
-　以下同様に、「Shift + Enter」を繰り返し実行して下さい。
+　この状態で、「Shift + Enter」(Shift を押しながら Enter を押す)を入力すると、選択されたセルが 実行されます。あるいは、メニューから「ラインタイム」「すべてのセルを実行」をクリックすると、すべてのセルを同時に実行することもできます。
 
 [メインページに戻る](../README.md)

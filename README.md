@@ -1,11 +1,19 @@
 # 書籍『Pythonでスラスラわかる ベイズ推論「超」入門』サポートサイト
 
 <div align="left">
-<img src="images/表紙-v1.png" width="200">
+<img src="images/表紙-v1.png" width="300">
 </div>
 
-　当サイトは 、書籍『Pythonでスラスラわかる ベイズ推論「超」入門』のサポートサイトです。<br> 　ベイズ推論理解のためには、確率分布などの数学知識が必須です。本書であれば、数学知識が不十分な読者も、Python実習を通じて簡単にベイス推論が理解できます。
 
+　当サイトは 、書籍『**Pythonでスラスラわかる ベイズ推論「超」入門**』のサポートサイトです。<br> 　ベイズ推論理解のためには、確率分布などの数学知識が必須です。本書であれば、数学知識が不十分な読者も、Python実習を通じて簡単にベイス推論が理解できます。
+
+
+## Amazonへのリンク
+
+[単行本](https://www.amazon.co.jp/dp/4065337631) 
+
+(Kindle版は準備中です) 
+<br>
 
 
 
@@ -14,17 +22,10 @@
 
 [実習Notebook一覧](https://github.com/makaishi2/python_bayes_intro/tree/main/notebooks)
 
-[実習Notebookの動かし方](refs/how-to-run.md) (T.B.D.)
+[実習Notebookの動かし方](refs/how-to-run.md) 
 
 [参考Notebook](https://github.com/makaishi2/python_bayes_intro/tree/main/sample-notebooks)
 
-<br>
-
-## Amazonへのリンク
-
-[単行本](https://www.amazon.co.jp/dp/4065337631) 
-
-Kindle版は準備中 
 <br>
 
 
@@ -76,7 +77,7 @@ Kindle版は準備中
 
 
 
-### 本書ハイライト紹介
+## 本書ハイライト紹介
 
 #### 確率分布関連の数学概念はオブジェクト指向プログラミングモデルとの対比で説明
 
@@ -148,6 +149,7 @@ Kindle版は準備中
 
 |ソース  |タイトルとリンク  |補足|
 |---|---|---|
+|das_Kino様 はてなブログ|[【書評】Pythonでスラスラわかるベイズ推論「超」入門](https://das-kino.hatenablog.com/entry/2023/11/22/183655)|das_Kino様はR/Stanの経験をお持ちで、そういう立場ででの書評をいただいています。<br>書評の中でライブラリのimport文がないので注意が必要とのコメントがありますが、当サポートサイトで公開しているnotebookでは冒頭のセルで実装があり、その心配は不要です。|
 
 ***
 
