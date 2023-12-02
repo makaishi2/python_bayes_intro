@@ -12,7 +12,7 @@
 
 [単行本](https://www.amazon.co.jp/dp/4065337631) 
 
-(Kindle版は準備中です) 
+[Kindle版](https://www.amazon.co.jp/dp/B0CP26YYRJ)
 <br>
 
 
@@ -135,7 +135,7 @@
 
 ## リンク集
 
-(T.B.D.)
+
 
 ### 著者発信の情報
 
@@ -149,7 +149,7 @@
 
 |ソース  |タイトルとリンク  |補足|
 |---|---|---|
-|das_Kino様 はてなブログ|[【書評】Pythonでスラスラわかるベイズ推論「超」入門](https://das-kino.hatenablog.com/entry/2023/11/22/183655)|das_Kino様はR/Stanの経験をお持ちで、そういう立場ででの書評をいただいています。<br>書評の中でライブラリのimport文がないので注意が必要とのコメントがありますが、当サポートサイトで公開しているnotebookでは冒頭のセルで実装があり、その心配は不要です。|
+|das_Kino様 はてなブログ|[【書評】Pythonでスラスラわかるベイズ推論「超」入門](https://das-kino.hatenablog.com/entry/2023/11/22/183655)|das_Kino様はR/Stanの経験をお持ちで、そういう立場ででの書評をいただいています。|
 
 ***
 
