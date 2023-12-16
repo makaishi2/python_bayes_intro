@@ -141,7 +141,8 @@
 
 |ソース  |タイトルとリンク  |補足|
 |---|---|---|
-
+|twitter|[@makaishi2](https://twitter.com/makaishi2)|著者のツイッターアカウント。書籍に関連した情報発信とretweetが中心です。|
+|異業種データサイエンス研究会招待講演資料|[AI・DS領域を学習したい方に向けて](https://speakerdeck.com/makaishi2/aidsling-yu-woxue-xi-sitaifang-nixiang-kete)|2022-12-03に異業種データサイエンス研究会主催で行われたイベントでの招講演資料です。|
 
 
 ### 外部リンク
@@ -150,6 +151,7 @@
 |ソース  |タイトルとリンク  |補足|
 |---|---|---|
 |das_Kino様 はてなブログ|[【書評】Pythonでスラスラわかるベイズ推論「超」入門](https://das-kino.hatenablog.com/entry/2023/11/22/183655)|das_Kino様はR/Stanの経験をお持ちで、そういう立場ででの書評をいただいています。|
+|togetterまとめサイト|https://togetter.com/li/2274456 |有名ブロガーのkenkenさんの本書へのコメントがまとめられています|
 
 ***
 
