@@ -130,6 +130,8 @@
 |ソース  |タイトルとリンク  |補足|
 |---|---|---|
 |当サポートサイト|[3クラス潜在変数モデル](refs/3クラス潜在変数モデル.pdf)|5.4節の潜在変数モデルは対象を3クラスに拡張可能です。その解説をしています|
+|qiita|[補足　Amazonレビュー分析](https://qiita.com/makaishi2/items/074c803de4368ef7874f)|4.6節　ベイズ推論　二項分布バージョンの拡張としての多項分布をAmazonレビューに適用した事例です|
+|qiita|[潜在変数モデル補足](https://qiita.com/makaishi2/items/8dae04e51a79ae456995)|5.4節　潜在変数モデルの「ラベルスイッチ」について詳しく解説しました|
 
 
 
@@ -150,17 +152,16 @@
 
 |ソース  |タイトルとリンク  |補足|
 |---|---|---|
-|das_Kino様 はてなブログ|[【書評】Pythonでスラスラわかるベイズ推論「超」入門](https://das-kino.hatenablog.com/entry/2023/11/22/183655)|das_Kino様はR/Stanの経験をお持ちで、そういう立場ででの書評をいただいています。|
+|Amazon|[Amazonレビュー](https://www.amazon.co.jp/product-reviews/4065337631/)||
 |togetterまとめサイト|https://togetter.com/li/2274456 |有名ブロガーのkenkenさんの本書へのコメントがまとめられています|
+
+
 
 ***
 
 
 ## 正誤訂正・FAQ
 
-<!---
-* [Notebook補足情報](notebook-ref.md)
--->  
 
 * [正誤訂正](refs/errors.md)
 
